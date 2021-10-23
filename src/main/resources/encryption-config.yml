@@ -1,0 +1,5 @@
+CipherTransformation: AES/ECB/PKCS5Padding
+EncryptionDecryptionAlgorithm: AES
+SECRET_KEY: mytestkey
+SHAAlgorithm1: SHA-1
+JWT_SECRET_KEY: mytestjwtkey
